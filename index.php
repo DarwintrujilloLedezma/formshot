@@ -15,7 +15,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 text-center cont-form-u">
-                    <h2>REGISTRAR USUARIOS</h2>
+                    <h2>REGISTRAR USUARIOS AQUI</h2>
                     <p>Por favor complete el formulario para registrar un nuevo ususario</p>
                     <form action="model/insertarUser.php" class="text-start" method="POST">
                         <div class="row">
